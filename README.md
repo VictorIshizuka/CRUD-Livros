@@ -6,4 +6,5 @@ npm install express
 npm install mongoose
 ```
 
->snxsh
+#How to use MongoDB
+
