@@ -6,5 +6,5 @@ npm install express
 npm install mongoose
 ```
 
-#How to use MongoDB
+/How to use MongoDB
 
