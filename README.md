@@ -8,8 +8,10 @@ npm install mongoose
 
 # How to get your connection string
 
->1º- go to organization > projects > database deployments
+> go to organization > projects > database deployments
+>
+> search for Cmd Line Tools and click in Connect to Your Cluster then select Connect using VS Code and copy the link
 
->2º- search for Cmd Line Tools and click in Connect to Your Cluster then select Connect using VS Code and copy the link
+# How to use your connection string
 
->idfv
+> 
