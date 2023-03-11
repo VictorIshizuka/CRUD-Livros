@@ -1,7 +1,7 @@
 import mongoose from "mongoose"
 
 mongoose.set('strictQuery', true);
-mongoose.connect("mongodb+srv://victorishizuka:ishizuka131@alura.hk9oims.mongodb.net/Alura-node");
+mongoose.connect("connection string(more informations in README)");
 
 let db = mongoose.connection;
 
