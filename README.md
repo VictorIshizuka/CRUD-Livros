@@ -14,4 +14,6 @@ npm install mongoose
 
 # How to use your connection string
 
-> 
+In src/config/dbConnect.js
+
+> mongoose.connect("mongodb+srv://username:<password>@"organization".code.mongodb.net/collection-name")
